@@ -1,0 +1,4 @@
+Thank you for downloading. I just started learning PHP. Please don't hesitate to let me know about my mistakes.
+Knowing my mistakes will improve me more in this regard.
+
+		//zeze [Noob Developer :)]
